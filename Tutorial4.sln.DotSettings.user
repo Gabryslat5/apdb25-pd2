@@ -1,0 +1,38 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AMethodBaseInvoker_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003Fa6b7f037ba7b44df80b8d3aa7e58eeb2e8e938_003Fb5_003F01ebd46b_003FMethodBaseInvoker_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=068ca9b8_002Df39f_002D48a9_002D9c67_002D3066ce5778e2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShouldReturnAllSalesmen" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::73439BA3-64B9-4BEC-A837-8A5044D3E5BB::net9.0::EmpDeptSalgradeTests.ShouldReturnAllSalesmen&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::73439BA3-64B9-4BEC-A837-8A5044D3E5BB::net9.0::EmpDeptSalgradeTests.ShouldReturnDept30EmpsOrderedBySalaryDesc&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::73439BA3-64B9-4BEC-A837-8A5044D3E5BB::net9.0::EmpDeptSalgradeTests.ShouldReturnEmployeesFromChicago&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4d7abe4b_002Ddfa3_002D456a_002Db372_002D4cca1c3d690a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShouldReturnAllSalesmen #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::73439BA3-64B9-4BEC-A837-8A5044D3E5BB::net9.0::EmpDeptSalgradeTests.ShouldReturnAllSalesmen&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8c7ee96e_002D1331_002D43d0_002D986c_002Dc77f3cea97d8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ShouldReturnAllSalesmen #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::73439BA3-64B9-4BEC-A837-8A5044D3E5BB::net9.0::EmpDeptSalgradeTests.ShouldReturnAllSalesmen&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::73439BA3-64B9-4BEC-A837-8A5044D3E5BB::net9.0::EmpDeptSalgradeTests.ShouldReturnDept30EmpsOrderedBySalaryDesc&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::73439BA3-64B9-4BEC-A837-8A5044D3E5BB::net9.0::EmpDeptSalgradeTests.ShouldReturnEmployeesFromChicago&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::73439BA3-64B9-4BEC-A837-8A5044D3E5BB::net9.0::EmpDeptSalgradeTests.ShouldSelectNamesAndSalaries&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::73439BA3-64B9-4BEC-A837-8A5044D3E5BB::net9.0::EmpDeptSalgradeTests.ShouldJoinEmployeesWithDepartments&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::73439BA3-64B9-4BEC-A837-8A5044D3E5BB::net9.0::EmpDeptSalgradeTests.ShouldCountEmployeesPerDepartment&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::73439BA3-64B9-4BEC-A837-8A5044D3E5BB::net9.0::EmpDeptSalgradeTests.ShouldReturnEmployeesWithCommission&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::73439BA3-64B9-4BEC-A837-8A5044D3E5BB::net9.0::EmpDeptSalgradeTests.ShouldMatchEmployeeToSalaryGrade&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::73439BA3-64B9-4BEC-A837-8A5044D3E5BB::net9.0::EmpDeptSalgradeTests.ShouldCalculateAverageSalaryPerDept&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::73439BA3-64B9-4BEC-A837-8A5044D3E5BB::net9.0::EmpDeptSalgradeTests.ShouldReturnEmployeesEarningMoreThanDeptAverage&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::73439BA3-64B9-4BEC-A837-8A5044D3E5BB::net9.0::Tutorial3Tests.AdvancedEmpDeptTests.ShouldReturnMaxSalary&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::73439BA3-64B9-4BEC-A837-8A5044D3E5BB::net9.0::Tutorial3Tests.AdvancedEmpDeptTests.ShouldReturnMinSalaryInDept30&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::73439BA3-64B9-4BEC-A837-8A5044D3E5BB::net9.0::Tutorial3Tests.AdvancedEmpDeptTests.ShouldReturnFirstTwoHiredEmployees&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::73439BA3-64B9-4BEC-A837-8A5044D3E5BB::net9.0::Tutorial3Tests.AdvancedEmpDeptTests.ShouldReturnDistinctJobTitles&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::73439BA3-64B9-4BEC-A837-8A5044D3E5BB::net9.0::Tutorial3Tests.AdvancedEmpDeptTests.ShouldReturnEmployeesWithManagers&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::73439BA3-64B9-4BEC-A837-8A5044D3E5BB::net9.0::Tutorial3Tests.AdvancedEmpDeptTests.AllEmployeesShouldEarnMoreThan500&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::73439BA3-64B9-4BEC-A837-8A5044D3E5BB::net9.0::Tutorial3Tests.AdvancedEmpDeptTests.ShouldFindAnyWithCommissionOver400&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::73439BA3-64B9-4BEC-A837-8A5044D3E5BB::net9.0::Tutorial3Tests.AdvancedEmpDeptTests.ShouldReturnEmployeeManagerPairs&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::73439BA3-64B9-4BEC-A837-8A5044D3E5BB::net9.0::Tutorial3Tests.AdvancedEmpDeptTests.ShouldReturnTotalIncomeIncludingCommission&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::73439BA3-64B9-4BEC-A837-8A5044D3E5BB::net9.0::Tutorial3Tests.AdvancedEmpDeptTests.ShouldJoinEmpDeptSalgrade&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
